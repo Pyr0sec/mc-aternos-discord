@@ -8,8 +8,8 @@ The main purpose behind making this script was so that my friends can start or s
 
 >intended to be used on vps but its your choice. 
 
-- `git clone `
-- `cd MC aternos discord`
+- `git clone https://github.com/Pyr0sec/mc-aternos-discord.git`
+- `cd mc-aternos-discord`
 - `pip install -r requirements.txt`
 
 Now, the installation is done we need to setup a bot account in discord developer portal so you can connect this code with discord.
@@ -17,8 +17,7 @@ Now, the installation is done we need to setup a bot account in discord develope
 ### Setting up a bot account in discord developer portal
 instead of me explaining it here in text you should watch this portion of the video, which guides you in depth on how to setup a bot account in discord developer portal.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fU-kWx-OYvE?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+URL:https://www.youtube.com/fU-kWx-OYvE?start=68
 Timestamp: (1:08 to 4:39)
 
 Now that this is done, we need to configure the code according to our details before actually starting the bot.
