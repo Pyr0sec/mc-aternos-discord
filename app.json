@@ -1,0 +1,7 @@
+{
+  "name": "Aternos bot",
+  "description": "Control your aternos server right through discord chat.",
+  "repository": "https://github.com/Pyr0sec/mc-aternos-discord",
+  "logo": "https://i.imgur.com/cBeKErY.jpeg",
+  "keywords": ["python", "discord", "aternos"]
+}
