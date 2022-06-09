@@ -46,6 +46,8 @@ Best solution might be to host this bot on herokuapp. so you need to follow thes
 - [Sign up to Heroku](https://signup.heroku.com/) and [log in to your account](https://id.heroku.com/login).
 - Click the button below and follow the instructions.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pyr0sec/mc-aternos-discord)
+
 ## Screenshots
 ![Pasted image 20220609232650](https://user-images.githubusercontent.com/74669749/172929877-c63d9474-d569-4757-b0b3-0f5445a39474.png)
 
