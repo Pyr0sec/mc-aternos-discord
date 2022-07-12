@@ -60,4 +60,4 @@ Hope this helps ❤
 
 open to any suggestions 😊
 
-just message me @ [Twitter Pyr0sec](https://twitter.com/Pyr0sec) 🐤
+just message me [@Pyr0sec](https://twitter.com/Pyr0sec) 🐤
