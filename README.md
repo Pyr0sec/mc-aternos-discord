@@ -58,6 +58,6 @@ Best solution might be to host this bot on herokuapp. so you need to follow thes
 
 Hope this helps ❤
 
-open to any suggestions 😊
+Open to any suggestions 😊
 
-just message me [@Pyr0sec](https://twitter.com/Pyr0sec) 🐤
+Just message me [@Pyr0sec](https://twitter.com/Pyr0sec) 🐤
